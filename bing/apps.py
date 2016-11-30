@@ -4,4 +4,4 @@ from django.apps import AppConfig
 
 
 class GtBingConfig(AppConfig):
-    name = 'GT_Bing'
+    name = 'bing'
